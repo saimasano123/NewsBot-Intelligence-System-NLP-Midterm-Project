@@ -1,0 +1,38 @@
+# NewsBot Intelligence System - Python Dependencies
+# ITAI2373 Mid-Term Project
+# Compatible with Python 3.8+
+
+# Core NLP Libraries
+spacy==3.7.2
+nltk==3.8.1
+textblob==0.17.1
+
+# Machine Learning
+scikit-learn==1.3.2
+
+# Data Processing
+pandas==2.1.4
+numpy==1.24.3
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.1
+
+# Utilities
+jupyter==1.0.0
+notebook==7.0.6
+
+# Additional dependencies (automatically installed with above)
+# - spacy language model: en_core_web_sm (installed via: python -m spacy download en_core_web_sm)
+# - NLTK data packages (installed in code via nltk.download())
+
+# Installation Instructions:
+# 1. Open terminal/command prompt
+# 2. Navigate to project directory
+# 3. Run: pip install -r requirements.txt
+# 4. Run: python -m spacy download en_core_web_sm
+# 5. NLTK data will auto-download when you run the notebook
+
+# Note: This project was developed and tested on Google Colab
+# Google Colab comes with most of these packages pre-installed
+# You only need to install: spacy language model and NLTK data
