@@ -1,8 +1,8 @@
 # NewsBot Intelligence System
 ## NLP Mid-Term Project - ITAI2373
 
-**Author:** [Your Full Name]  
-**Date:** November 2024  
+**Author:** Saima Sano
+**Date:** November 1st, 2025  
 **Course:** ITAI2373 - Natural Language Processing  
 
 ---
@@ -198,23 +198,6 @@ Model Comparison:
 
 ---
 
-## 🔮 Future Enhancements
-
-### Planned Improvements
-1. **Multi-language Support** - Extend to Spanish, French, German
-2. **Real-time Processing** - Live news feed integration
-3. **Advanced NER** - Custom entity training for industry terms
-4. **Temporal Analysis** - Trend forecasting over time
-5. **Dashboard Interface** - Interactive Streamlit/Gradio UI
-
-### Research Extensions
-- Transfer learning with BERT/GPT models
-- Cross-lingual analysis
-- Fake news detection integration
-- Topic modeling with LDA
-
----
-
 ## 📚 Documentation
 
 ### Code Documentation
@@ -244,10 +227,9 @@ Through this project, I have:
 
 ## 📞 Contact & Acknowledgments
 
-**Author:** [Your Name]  
-**Email:** [your.email@example.com]  
-**LinkedIn:** [Your LinkedIn URL]  
-**Portfolio:** [Your Portfolio URL]
+**Author:** Saima sano 
+**Email:** saimasano@hotmail.com 
+
 
 ### Acknowledgments
 - ITAI2373 Course Instructor
@@ -266,12 +248,7 @@ Dataset used under Kaggle's terms of service.
 
 ## 🔗 Links
 
-- **Project Repository:** [Your GitHub Repo URL]
+- **Project Repository:** 
 - **Dataset Source:** https://www.kaggle.com/competitions/learn-ai-bbc/data
-- **Video Demo:** [Optional - Your Video URL]
-- **Live Demo:** [Optional - Colab/Streamlit URL]
-
 ---
-
-**Last Updated:** November 2024  
 **Status:** ✅ Completed and Submitted
