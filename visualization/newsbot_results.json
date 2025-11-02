@@ -1,0 +1,53 @@
+{
+  "dataset_info": {
+    "total_articles": 1490,
+    "categories": [
+      "business",
+      "tech",
+      "politics",
+      "sport",
+      "entertainment"
+    ],
+    "category_distribution": {
+      "sport": 346,
+      "business": 336,
+      "politics": 274,
+      "entertainment": 273,
+      "tech": 261
+    }
+  },
+  "classification_results": {
+    "best_model": "SVM",
+    "best_accuracy": 0.9765100671140939,
+    "all_models": {
+      "Naive Bayes": 0.9664429530201343,
+      "Logistic Regression": 0.9731543624161074,
+      "Random Forest": 0.9395973154362416,
+      "SVM": 0.9765100671140939
+    }
+  },
+  "sentiment_analysis": {
+    "overall_distribution": {
+      "Neutral": 784,
+      "Positive": 682,
+      "Negative": 24
+    },
+    "average_polarity": 0.09712022338723524,
+    "average_subjectivity": 0.405083008332813
+  },
+  "entity_extraction": {
+    "total_entities": 1973,
+    "entities_by_type": {
+      "PERSON": 407,
+      "ORG": 194,
+      "GPE": 100,
+      "DATE": 325,
+      "MONEY": 114
+    }
+  },
+  "business_metrics": {
+    "time_savings_percentage": 99.9,
+    "cost_reduction_percentage": 75,
+    "processing_capacity_per_day": 10000
+  }
+}
